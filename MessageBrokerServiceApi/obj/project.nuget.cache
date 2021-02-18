@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+bT5+JQsimS1cVlGYwNrKnPC3ubRlr5WTzShQHBpouUUDe3HcUxGIkPJyclkS73f2qKzNBMPT2j8r5h/umh9Sg==",
+  "dgSpecHash": "nzMJiANlrXzv/tfD5INbguW/5aBrx0iFYCB4VPIcF/RzG0GdN2v2ojYXujHBckQpW4yKtCdziG//5Ucnsf3Hdg==",
   "success": true,
-  "projectFilePath": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj",
+  "projectFilePath": "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

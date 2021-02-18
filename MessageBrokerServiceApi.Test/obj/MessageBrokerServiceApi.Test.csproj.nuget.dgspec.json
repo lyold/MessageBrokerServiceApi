@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj": {}
+    "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj": {}
   },
   "projects": {
-    "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj": {
+    "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj",
+        "projectUniqueName": "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj",
         "projectName": "MessageBrokerServiceApi.Test",
-        "projectPath": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj",
+        "projectPath": "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj",
         "packagesPath": "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\obj\\",
+        "outputPath": "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj": {
-                "projectPath": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj"
+              "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj": {
+                "projectPath": "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj": {
+    "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj",
+        "projectUniqueName": "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj",
         "projectName": "MessageBrokerServiceApi",
-        "projectPath": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj",
+        "projectPath": "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj",
         "packagesPath": "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\obj\\",
+        "outputPath": "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

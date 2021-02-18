@@ -5,7 +5,7 @@ networks:
 services:
   messagebrokerserviceapi:
     build:
-      context: C:\ProjetosPessoais\MessageBrokerServiceApi
+      context: C:\ProjetosPessoais\Nova pasta\MessageBrokerServiceApi
       dockerfile: MessageBrokerServiceApi/Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development

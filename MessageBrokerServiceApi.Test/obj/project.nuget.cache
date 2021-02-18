@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2MWOXHTiMw0BcE47QApoqrjhqZ8y4K/5NTXrCtjAheZrMey90+iJLO+orIOZB5rygewu2OqYmYhCfJP0Xwkxmg==",
+  "dgSpecHash": "mhgHYp8bb7KWaJdP/xjH75Ec+nYEndL3TGRlRPWiYBvUKcsTDZJl29/NIoOOZnEQDwrqOJM/32BpVVVlSLS3Fg==",
   "success": true,
-  "projectFilePath": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj",
+  "projectFilePath": "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
