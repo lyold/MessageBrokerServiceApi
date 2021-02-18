@@ -1,0 +1,16 @@
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\bin\Debug\appsettings.Development.json
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\bin\Debug\appsettings.json
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\bin\Debug\MessageBrokerServiceApi.exe
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\bin\Debug\MessageBrokerServiceApi.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\bin\Debug\RabbitMQ.Client.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\bin\Debug\Serilog.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\bin\Debug\Newtonsoft.Json.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\bin\Debug\Microsoft.OpenApi.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\bin\Debug\System.Threading.Channels.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\bin\Debug\MessageBrokerServiceApi.pdb
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\obj\Debug\docker-compose.dcprojAssemblyReference.cache

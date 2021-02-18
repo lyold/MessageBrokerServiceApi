@@ -1,4 +1,5 @@
-﻿using MessageBrokerServiceApi.Common.Helper.Interfaces;
+﻿using MessageBrokerServiceApi.Common.Helper;
+using MessageBrokerServiceApi.Common.Helper.Interfaces;
 using Microsoft.Extensions.Hosting;
 using System;
 using System.Threading;
