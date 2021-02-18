@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "+bT5+JQsimS1cVlGYwNrKnPC3ubRlr5WTzShQHBpouUUDe3HcUxGIkPJyclkS73f2qKzNBMPT2j8r5h/umh9Sg==",
+  "success": true,
+  "projectFilePath": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.5\\swashbuckle.aspnetcore.6.0.5.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.5\\swashbuckle.aspnetcore.swagger.6.0.5.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.5\\swashbuckle.aspnetcore.swaggergen.6.0.5.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.5\\swashbuckle.aspnetcore.swaggerui.6.0.5.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

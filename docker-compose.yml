@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  messagebrokerserviceapi:
+    image: ${DOCKER_REGISTRY-}messagebrokerserviceapi
+    build:
+      context: .
+      dockerfile: MessageBrokerServiceApi/Dockerfile

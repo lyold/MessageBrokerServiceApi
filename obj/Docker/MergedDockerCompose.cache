@@ -1,0 +1,20 @@
+networks:
+  baas:
+    external: true
+    name: baas
+services:
+  messagebrokerserviceapi:
+    build:
+      context: C:\ProjetosPessoais\MessageBrokerServiceApi
+      dockerfile: MessageBrokerServiceApi/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: messagebrokerserviceapi
+    networks:
+      baas:
+        ipv4_address: 172.18.0.16
+    ports:
+    - target: 80
+    volumes:
+    - C:\Users\rodrigo.gustavo.RADIXENGRJ.000\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

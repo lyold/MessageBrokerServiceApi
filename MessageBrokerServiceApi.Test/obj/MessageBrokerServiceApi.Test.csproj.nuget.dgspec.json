@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj",
+        "projectName": "MessageBrokerServiceApi.Test",
+        "projectPath": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\MessageBrokerServiceApi.Test.csproj",
+        "packagesPath": "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj": {
+                "projectPath": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj",
+        "projectName": "MessageBrokerServiceApi",
+        "projectPath": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj",
+        "packagesPath": "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosPessoais\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
