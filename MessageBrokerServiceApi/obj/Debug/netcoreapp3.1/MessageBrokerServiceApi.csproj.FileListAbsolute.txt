@@ -57,3 +57,34 @@ C:\ProjetosPessoais\Nova pasta\MessageBrokerServiceApi\MessageBrokerServiceApi\o
 C:\ProjetosPessoais\Nova pasta\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.dll
 C:\ProjetosPessoais\Nova pasta\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.pdb
 C:\ProjetosPessoais\Nova pasta\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.genruntimeconfig.cache
+C:\ProjetosPessoais\Nova pasta\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.csprojAssemblyReference.cache
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\MessageBrokerServiceApi.exe
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\MessageBrokerServiceApi.deps.json
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\MessageBrokerServiceApi.runtimeconfig.json
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\MessageBrokerServiceApi.runtimeconfig.dev.json
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\MessageBrokerServiceApi.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\MessageBrokerServiceApi.pdb
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.csprojAssemblyReference.cache
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.AssemblyInfoInputs.cache
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.AssemblyInfo.cs
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.csproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\staticwebassets\MessageBrokerServiceApi.StaticWebAssets.Manifest.cache
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\staticwebassets\MessageBrokerServiceApi.StaticWebAssets.xml
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\MessageBrokerServiceApi.styles.css
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.RazorTargetAssemblyInfo.cache
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.csproj.CopyComplete
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.dll
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.pdb
+C:\ProjetosPessoais\Github\MessageBrokerServiceApi\MessageBrokerServiceApi\obj\Debug\netcoreapp3.1\MessageBrokerServiceApi.genruntimeconfig.cache

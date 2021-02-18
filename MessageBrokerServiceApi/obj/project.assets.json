@@ -450,11 +450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj",
+      "projectUniqueName": "C:\\ProjetosPessoais\\Github\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj",
       "projectName": "MessageBrokerServiceApi",
-      "projectPath": "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj",
+      "projectPath": "C:\\ProjetosPessoais\\Github\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\MessageBrokerServiceApi.csproj",
       "packagesPath": "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetosPessoais\\Nova pasta\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\obj\\",
+      "outputPath": "C:\\ProjetosPessoais\\Github\\MessageBrokerServiceApi\\MessageBrokerServiceApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

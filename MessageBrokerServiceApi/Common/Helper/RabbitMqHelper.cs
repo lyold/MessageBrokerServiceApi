@@ -31,7 +31,7 @@ namespace MessageBrokerServiceApi.Common.Helper
             {
                 var factory = new ConnectionFactory()
                 {
-                    HostName = "rabbitmq.baas",
+                    HostName = "rabbitmq.test",
                     UserName = "admin",
                     Password = "admin"
                 };

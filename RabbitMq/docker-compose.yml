@@ -1,0 +1,27 @@
+version: '3.7'
+services:
+  rabbit123:
+    image: rabbitmq:3.8.2-management
+    hostname: rabbitmq.test
+    container_name: rabbitmq.test
+    restart: always
+    environment:
+      RABBITMQ_ERLANG_COOKIE: "SWQOKODSQALRPCLNMEQG"
+      RABBITMQ_NODENAME: rabbit123
+      TZ: "America/Sao_Paulo"
+    volumes:
+      - "./rabbitmq.config:/etc/rabbitmq/rabbitmq.config"
+      - "./definitions.json:/etc/rabbitmq/definitions.json"
+      - "/usr/share/zoneinfo:/usr/share/zoneinfo"
+    ports:
+      - "4369:4369"
+      - "5671:5671"
+      - "5672:5672"
+      - "15671:15671"
+      - "15672:15672"
+      - "25672:25672"
+    networks:
+      - rag
+networks:
+  rag:
+    external: true

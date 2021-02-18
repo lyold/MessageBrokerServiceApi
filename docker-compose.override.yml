@@ -1,9 +1,13 @@
 version: '3.4'
 
 networks:
-  baas:
-    external: true
-    
+  rag:
+    name: rag
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 182.18.0.0/16
+
 services:
   messagebrokerserviceapi:
     environment:
@@ -13,5 +17,6 @@ services:
     volumes:
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
     networks:
-      baas:
-        ipv4_address: 172.18.0.16
+      rag:
+        ipv4_address: 182.18.0.16
+      
