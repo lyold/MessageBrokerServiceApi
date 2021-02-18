@@ -9,19 +9,12 @@ Sugestão de Execução Inicial:
 4) Consultar periodicamente o endpoint "messages" para visualizar as mensagens recebidas pelo serviço (disparada para ele mesmo).
 5) Para obter informações do id do serviço, basta executar o endpoint "info".
 
-
-
-
 Sugestão de Execução Multi Processamento:
 
 1) Após os passos anteriores, abrir o terminal e executar o comando "docker run -d -p 55701:80 --network=rag messagebrokerserviceapi".
 2) Após a execução da primeira instância, rode o comando "docker run -d -p 55702:80 --network=rag messagebrokerserviceapi".
 3) Acesse ambos containers pelo postman ou utilizando a ferramenta que preferir.
 4) Consultar periodicamente o endpoint "messages" de ambos os endpoints para visualizar a troca de mensagens.
-
-
-
-
 
 Considerações:
 
